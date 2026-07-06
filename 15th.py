@@ -1,0 +1,14 @@
+text='python'
+print(text[-6:])
+data='''datasciencewithpython'''
+print(data[-10:-6])
+print(data[-17:-10])
+print(data[:-6])
+print(data[-10:])
+print(data[-1:])
+print(data[-2:-1])
+print(data[0::2])
+print(data[1::2])
+print(data[::-1])
+print(data[21:14:-1])
+print(data[10:3:-1])
