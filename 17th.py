@@ -17,3 +17,4 @@ if upper>0 and lower>0 and digit>0:
  print("strong password")
 else:
  print("week password")
+ 
